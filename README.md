@@ -1,1 +1,3 @@
-# AutomzationPractice / Realizado com JAVA e Selenium
+# AutomzationPractice 
+Automatização de testes DBServer.
+Realizado com JAVA e Selenium.
